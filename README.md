@@ -1,0 +1,2 @@
+# Rolodex
+ This project involves the development of a creative and interactive entrance for the  Rolodex. The project utilizes HTML, CSS, and JavaScript to create a visual effect where the word "rolodex" is  displayed with a unique animation. The 'o's in "rolodex" are represented as solid circles (dots), and as the  animation progresses, the surrounding letters fade away, leaving only the dots. The dots then merge into  one, which upon clicking, transforms into a constellation of 28 dots.
